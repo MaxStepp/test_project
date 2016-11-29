@@ -1,2 +1,2 @@
 # test_project
-Test project
+Test project for study

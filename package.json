@@ -1,0 +1,23 @@
+{
+  "name": "test-proj",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxStepp/test_project.git"
+  },
+  "keywords": [
+    "test",
+    "study"
+  ],
+  "author": "Max",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxStepp/test_project/issues"
+  },
+  "homepage": "https://github.com/MaxStepp/test_project#readme"
+}
