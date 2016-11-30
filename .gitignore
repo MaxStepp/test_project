@@ -3,3 +3,5 @@
 .idea/modules.xml
 .idea/test_project.iml
 .idea/workspace.xml
+node_modules
+public/bundle.js
